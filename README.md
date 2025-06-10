@@ -19,12 +19,12 @@ This app bridges the gap in dermatological care by bringing **real-time skin ana
 
 ## ✨ Key Features
 
-- 🤖 **AI-Powered Acne Detection** – Built using TensorFlow Lite & CNNs
-- 📷 **Real-time Image Analysis** – Snap or upload photos of your skin
-- 🔐 **Private On-Device Processing** – No images stored online
-- 📚 **Educational Skincare Database** – Learn about causes & treatments
-- 🧑‍💻 **Flutter Cross-Platform App** – Runs smoothly on Android devices
-- 🩺 **Telemedicine Integration** – Optional consultation with specialists
+- 🤖 **AI-Powered Acne Detection** – Built using TensorFlow Lite & CNNs  
+- 📷 **Real-time Image Analysis** – Snap or upload photos of your skin  
+- 🔐 **Private On-Device Processing** – No images stored online  
+- 📚 **Educational Skincare Database** – Learn about causes & treatments  
+- 🧑‍💻 **Flutter Cross-Platform App** – Runs smoothly on Android devices  
+- 🩺 **Telemedicine Integration** – Optional consultation with specialists  
 
 ---
 
@@ -40,13 +40,13 @@ This app bridges the gap in dermatological care by bringing **real-time skin ana
 
 ## ⚙️ Tech Stack
 
-| Technology     | Description                          |
-|----------------|--------------------------------------|
-| Flutter        | UI Framework for cross-platform app  |
-| Dart           | Programming language for Flutter     |
-| TensorFlow Lite| On-device ML inference               |
-| Firebase       | Authentication & Storage             |
-| CNN Model      | Image classification for acne types  |
+| Technology      | Description                          |
+|------------------|--------------------------------------|
+| Flutter          | UI Framework for cross-platform app  |
+| Dart             | Programming language for Flutter     |
+| TensorFlow Lite  | On-device ML inference               |
+| Firebase         | Authentication & Storage             |
+| CNN Model        | Image classification for acne types  |
 
 ---
 
@@ -54,9 +54,9 @@ This app bridges the gap in dermatological care by bringing **real-time skin ana
 
 ### 📋 Requirements
 
-- ✅ Flutter SDK `3.0+`
-- ✅ Android Studio or VS Code
-- ✅ Firebase Project (with `google-services.json`)
+- ✅ Flutter SDK `3.0+`  
+- ✅ Android Studio or VS Code  
+- ✅ Firebase Project (with `google-services.json`)  
 
 ### 🚀 Setup Steps
 
