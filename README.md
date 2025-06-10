@@ -19,12 +19,12 @@ This app bridges the gap in dermatological care by bringing **real-time skin ana
 
 ## ✨ Key Features
 
-- 🤖 **AI-Powered Acne Detection** – Built using TensorFlow Lite & CNNs  
+- 🤖 **ML-Powered Acne Detection** – Built using TensorFlow Lite & CNNs  
 - 📷 **Real-time Image Analysis** – Snap or upload photos of your skin  
 - 🔐 **Private On-Device Processing** – No images stored online  
 - 📚 **Educational Skincare Database** – Learn about causes & treatments  
 - 🧑‍💻 **Flutter Cross-Platform App** – Runs smoothly on Android devices  
-- 🩺 **Telemedicine Integration** – Optional consultation with specialists  
+
 
 ---
 
