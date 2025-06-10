@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068062064747",
+    "project_id": "skinoptix-1d989",
+    "storage_bucket": "skinoptix-1d989.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068062064747:android:0fd798a20f37d4da08712e",
+        "android_client_info": {
+          "package_name": "com.example.skinoptix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068062064747-g9b2fk6hscapggo7rjvgoe0l5c011dl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALFe3e5iMBjIAKiFSuuGlRPGQhTx4xMlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068062064747-g9b2fk6hscapggo7rjvgoe0l5c011dl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
