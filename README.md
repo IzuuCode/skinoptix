@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-yellow)
 ![Platform](https://img.shields.io/badge/Platform-Android-blue?logo=android)
 
-> 👨‍⚕️ *Your personal skincare assistant powered by AI and Flutter.*
+> 👨‍⚕️ *Your personal skincare assistant powered by ML and Flutter.*
 
 ---
 
