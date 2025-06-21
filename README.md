@@ -1,4 +1,4 @@
-# 🌿 SkinOptix – Smart Acne Detection App
+# 🌿 SkinOptix – Smart Acne Detection App (ML)
 
 ![Flutter](https://img.shields.io/badge/Flutter-v3.0-blue?logo=flutter)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -69,7 +69,11 @@ cd SkinOptix
 flutter pub get
 
 # 3. Add Firebase config
+
+
 # Place google-services.json in android/app/
 
 # 4. Run the app
 flutter run
+
+
