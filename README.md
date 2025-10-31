@@ -58,22 +58,5 @@ This app bridges the gap in dermatological care by bringing **real-time skin ana
 - ✅ Android Studio or VS Code  
 - ✅ Firebase Project (with `google-services.json`)  
 
-### 🚀 Setup Steps
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/your-username/SkinOptix.git
-cd SkinOptix
-
-# 2. Install dependencies
-flutter pub get
-
-# 3. Add Firebase config
-
-
-# Place google-services.json in android/app/
-
-# 4. Run the app
-flutter run
 
 
