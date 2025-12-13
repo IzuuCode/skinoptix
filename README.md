@@ -50,4 +50,5 @@ This app bridges the gap in dermatological care by bringing **real-time skin ana
 - ✅ Firebase Project (with `google-services.json`)  
 
 
-
+---
+More Info isurujayanada2002@gmail.com
