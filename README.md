@@ -27,15 +27,6 @@ This app bridges the gap in dermatological care by bringing **real-time skin ana
 
 
 ---
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="screenshots/login.png" width="200"/>
-  <img src="screenshots/scan.png" width="200"/>
-  <img src="screenshots/result.png" width="200"/>
-</p>
-
 ---
 
 ## ⚙️ Tech Stack
